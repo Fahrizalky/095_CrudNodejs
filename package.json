@@ -1,9 +1,10 @@
 {
   "name": "pertemuan-2",
   "version": "1.0.0",
-  "main": "Server.js",
+  "main": "index.js",
   "type": "module",
   "scripts": {
+    "start": "nodemon index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
